@@ -1,3 +1,7 @@
 .idea/
 practical-ml/
 *.pickle
+*.csv
+checkpoint
+model.ckpt.*
+tf.log
